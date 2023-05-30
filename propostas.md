@@ -3,7 +3,7 @@
 ## Site delivery de comida saudável para pessoas com restrições alimentares, como alergias e intolerâncias.
 
 ### Descrição:
- Site de fornecimento de comidada adequada a um público específico
+ <p>Site de fornecimento de comidada adequada a um público específico <p>
 
 ### Problema a ser solucionado:
 Dificuldade em encontar opções de alimentação  adequada para certas restrições alimentares.
