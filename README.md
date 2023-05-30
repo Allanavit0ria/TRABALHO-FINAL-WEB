@@ -1,7 +1,7 @@
 # TRABALHO-FINAL-WEB
 Trabalho final da disciplina de WEB
 
-# Nome_da_Equipe
+# As princesas
 
 ### Integrantes
 
