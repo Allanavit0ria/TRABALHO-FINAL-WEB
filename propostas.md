@@ -13,9 +13,13 @@ Dificuldade em encontar opções de alimentação  adequada para certas restriç
 
 ### Funcionalidades:
 1- Cardápio atualizado diariamente com opções adequadas para cada restrição;
+
 2- Cadastro de usuários com restrições alimentares;
+
 3- Opção de pagamento online;
+
 4- Acompamhamento do pedido em tempo real;
+
 5- Avaliação dos pratos e dos serviço;
 
 # Proposta 02
@@ -32,11 +36,16 @@ Pessoas sentem que, ao se manifestarem para relatar casos como assédio ou discr
 Vítimas ou testemunhas que presenciaram qualquer tipo de crime.
 
 ### Funcionalidades:
-1- Possibilidade de denúncia anônimaou indendtificada;
+1- Possibilidade de denúncia anônimaou indendtificada; 
+
 2- Enacaminhamento automático das denúncias para uma autoridade competente;
+
 3- Classificação das denúncias por  tipo de gravidade;
+
 4- Feedback  sobre os andamentodas denúncias;
+
 5- Possibilidade de vizualizar estatísticas sobre as denúncias recebidas;
+
 6- Disponibilização dos direitos do denunciante;
 
 # Proposta 03
@@ -53,11 +62,18 @@ A de organização em projetos e a priorização de planos desnecessários , ou 
  Estudantes e trabalhadores que buscam organizar melhor o seu ambiente de trabalho e estudo.
 
 ### Funcionalidades:
-1- Organização de datas e eventos importantes;
-2- Calendarios de eventos;
+1- Organização de datas e eventos importantes; 
+
+2- Calendarios de eventos; 
+
 3- Integração com redes sociais;
+
 4- Atualização em tempo real;
+
 5- Planejamento de tarefas;
+
 6- Definição de metas;
+
 7- Lista de afazeres;
+
 8- Lembretes e reflexões pessoais;
